@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "name": "Bikes",
+            "subcategory": [
+                "E-Bike",
+                "Mountain Bike",
+                "Road Bike",
+                "City Bike",
+                "Kids Bike"
+            ]
+        },
+    {
+        "name": "Parts",
+        "subcategory": [
+            "Breaks",
+            "Frames",
+            "Chains",
+            "Pedals",
+            "Cable",
+            "Groups Sets",
+            "Rims",
+            "Rear Shocks",
+            "HandleBar",
+            "Gear Shifters",
+            "Cranksets",
+            "Tubes"
+        ]
+    },
+    {
+        "name": "Accessories",
+        "subcategory": [
+            "Attachment Parts",
+            "Bike Locks",
+            "Bike Pump",
+            "Bike tools & Maintenance",
+            "Bottles",
+            "Bags",
+            "Storage"
+        ]
+    },
+    {
+        "name": "Clothing",
+        "subcategory": [
+            "Men",
+            "Women",
+            "Children"
+        ]
+    },
+    {
+        "name": "Electronics",
+        "subcategory": [
+            "Lights",
+            "Powermeter"
+        ]
+    }
+]
+}
+

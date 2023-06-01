@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107937697394",
+    "project_id": "ibikemo-48229",
+    "storage_bucket": "ibikemo-48229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107937697394:android:fe006b41417d946ae8bceb",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107937697394-schjhuet01l05m8l300gdfjbfnbtf3b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emart_app",
+            "certificate_hash": "d0fdd832d540464b7a206de4e737586414c631ef"
+          }
+        },
+        {
+          "client_id": "107937697394-junmd01n2iipaedm9v7v0e9im299snuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC89gnYAr-HhBFVALi_kaXwpX4ShPhAdN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107937697394-junmd01n2iipaedm9v7v0e9im299snuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
